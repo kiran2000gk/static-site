@@ -1,2 +1,2 @@
-https://eager-curran-e54857.netlify.app/
+https://static-pizza-app.netlify.app/
 # static-site
